@@ -1,0 +1,6 @@
+@EklavyaDotNet_HostAddress = http://localhost:5136
+
+GET {{EklavyaDotNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

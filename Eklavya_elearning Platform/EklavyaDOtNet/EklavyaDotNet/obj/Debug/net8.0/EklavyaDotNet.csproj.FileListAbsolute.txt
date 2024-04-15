@@ -1,0 +1,118 @@
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\appsettings.json
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.exe
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.deps.json
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.runtimeconfig.json
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.pdb
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Humanizer.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.csproj.AssemblyReference.cache
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.AssemblyInfoInputs.cache
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.AssemblyInfo.cs
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.csproj.CoreCompileInputs.cache
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.EklavyaDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.build.EklavyaDotNet.props
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EklavyaDotNet.props
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EklavyaDotNet.props
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\scopedcss\bundle\EklavyaDotNet.styles.css
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaD.0D5FE9B2.Up2Date
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\refint\EklavyaDotNet.dll
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.pdb
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.genruntimeconfig.cache
+C:\Users\SUSH\Desktop\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\ref\EklavyaDotNet.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\appsettings.json
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.exe
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.deps.json
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.runtimeconfig.json
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.pdb
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Humanizer.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.csproj.AssemblyReference.cache
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.AssemblyInfoInputs.cache
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.AssemblyInfo.cs
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.csproj.CoreCompileInputs.cache
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.EklavyaDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.build.EklavyaDotNet.props
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EklavyaDotNet.props
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EklavyaDotNet.props
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\scopedcss\bundle\EklavyaDotNet.styles.css
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaD.0D5FE9B2.Up2Date
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\refint\EklavyaDotNet.dll
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.pdb
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.genruntimeconfig.cache
+C:\Users\SUSH\Desktop\Latest\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\ref\EklavyaDotNet.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\appsettings.Development.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\appsettings.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.exe
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.deps.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.runtimeconfig.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\EklavyaDotNet.pdb
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Humanizer.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\MySqlConnector.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.csproj.AssemblyReference.cache
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.AssemblyInfoInputs.cache
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.AssemblyInfo.cs
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.csproj.CoreCompileInputs.cache
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.MvcApplicationPartsAssemblyInfo.cs
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.MvcApplicationPartsAssemblyInfo.cache
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.sourcelink.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.build.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.development.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.EklavyaDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.build.EklavyaDotNet.props
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EklavyaDotNet.props
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EklavyaDotNet.props
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\scopedcss\bundle\EklavyaDotNet.styles.css
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.csproj.CopyComplete
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\refint\EklavyaDotNet.dll
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.pdb
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\EklavyaDotNet.genruntimeconfig.cache
+E:\Final\Projects\Eklavya_elearning Platform\EklavyaDOtNet\EklavyaDotNet\obj\Debug\net8.0\ref\EklavyaDotNet.dll
